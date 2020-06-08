@@ -4,4 +4,4 @@
  ## React Application 
  
  
- ### Default:Shows video results related to nature 
+ ### By Default:Shows video results related to 'nature' 
